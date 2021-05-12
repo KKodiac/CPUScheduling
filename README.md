@@ -89,6 +89,8 @@ Process 에 대한 입력 데이터
     - Total amount of CPU computing time required for an entire scheduled Processes to go through
 
 # Team
-[홍성민: MLFQ](https://github.com/KKodiac)
-[권순호: Round-Robin](https://github.com/tnsgh9603)
-[박서진: FCFS]()
+- [홍성민: MLFQ](https://github.com/KKodiac)
+
+- [권순호: Round-Robin](https://github.com/tnsgh9603)
+
+- [박서진: FCFS]()
