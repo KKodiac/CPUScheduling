@@ -94,4 +94,4 @@ Process 에 대한 입력 데이터
 
 - [권순호: Round-Robin](https://github.com/tnsgh9603)
 
-- [박서진: FCFS]()
+- [박서진: FCFS](https://github.com/SeoJin97)
