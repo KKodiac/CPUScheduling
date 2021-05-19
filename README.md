@@ -2,6 +2,7 @@
 운영체제 팀플 과제: CPU 스케줄링
 
 CPU 스케줄링 프로그램의 설계 및 구현(in C Language)
+[과제 Due Date 지나며 정리해서 올리겠습니다.]
 
 ## Scheduling Algorithms
 Given a list of scheduling algorithms, FCFS(First Come First Served), Round-Robin, and Multilevel Feedback Queue were chosen
@@ -93,4 +94,4 @@ Process 에 대한 입력 데이터
 
 - [권순호: Round-Robin](https://github.com/tnsgh9603)
 
-- [박서진: FCFS]()
+- [박서진: FCFS](https://github.com/SeoJin97)
